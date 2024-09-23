@@ -1,6 +1,5 @@
 //
 //  GoogleDataModel.swift
-//  Lenskart
 //
 //  Created by K Gopi on 03/11/23.
 //
